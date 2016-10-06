@@ -22,7 +22,7 @@ then
 			echo -en "\e]PEa16a94"
 			echo -en "\e]PFcdab53"
 			clear
-			;;
+		;;
 		apathy)
 			echo -en "\e]P0031A16"
 			echo -en "\e]P10B342D"
@@ -41,7 +41,7 @@ then
 			echo -en "\e]PE4C963E"
 			echo -en "\e]PF3E965B"
 			clear
-			;;
+		;;
 		ashes)
 			echo -en "\e]P01C2023"
 			echo -en "\e]P1393F45"
@@ -60,7 +60,7 @@ then
 			echo -en "\e]PEC795AE"
 			echo -en "\e]PFC79595"
 			clear
-			;;
+		;;
 		atelier-cave)
 			echo -en "\e]P019171c"
 			echo -en "\e]P126232a"
@@ -79,7 +79,7 @@ then
 			echo -en "\e]PE955ae7"
 			echo -en "\e]PFbf40bf"
 			clear
-			;;
+		;;
 		atelier-dune)
 			echo -en "\e]P020201d"
 			echo -en "\e]P1292824"
@@ -98,7 +98,7 @@ then
 			echo -en "\e]PEb854d4"
 			echo -en "\e]PFd43552"
 			clear
-			;;
+		;;
 		atelier-estuary)
 			echo -en "\e]P022221b"
 			echo -en "\e]P1302f27"
@@ -117,7 +117,7 @@ then
 			echo -en "\e]PE5f9182"
 			echo -en "\e]PF9d6c7c"
 			clear
-			;;
+		;;
 		atelier-forest)
 			echo -en "\e]P01b1918"
 			echo -en "\e]P12c2421"
@@ -136,7 +136,7 @@ then
 			echo -en "\e]PE6666ea"
 			echo -en "\e]PFc33ff3"
 			clear
-			;;
+		;;
 		atelier-heath)
 			echo -en "\e]P01b181b"
 			echo -en "\e]P1292329"
@@ -155,7 +155,7 @@ then
 			echo -en "\e]PE7b59c0"
 			echo -en "\e]PFcc33cc"
 			clear
-			;;
+		;;
 		atelier-lakeside)
 			echo -en "\e]P0161b1d"
 			echo -en "\e]P11f292e"
@@ -174,7 +174,7 @@ then
 			echo -en "\e]PE6b6bb8"
 			echo -en "\e]PFb72dd2"
 			clear
-			;;
+		;;
 		atelier-plateau)
 			echo -en "\e]P01b1818"
 			echo -en "\e]P1292424"
@@ -193,7 +193,7 @@ then
 			echo -en "\e]PE8464c4"
 			echo -en "\e]PFbd5187"
 			clear
-			;;
+		;;
 		atelier-savanna)
 			echo -en "\e]P0171c19"
 			echo -en "\e]P1232a25"
@@ -212,7 +212,7 @@ then
 			echo -en "\e]PE55859b"
 			echo -en "\e]PF867469"
 			clear
-			;;
+		;;
 		atelier-seaside)
 			echo -en "\e]P0131513"
 			echo -en "\e]P1242924"
@@ -231,7 +231,7 @@ then
 			echo -en "\e]PEad2bee"
 			echo -en "\e]PFe619c3"
 			clear
-			;;
+		;;
 		atelier-sulphurpool)
 			echo -en "\e]P0202746"
 			echo -en "\e]P1293256"
@@ -250,7 +250,7 @@ then
 			echo -en "\e]PE6679cc"
 			echo -en "\e]PF9c637a"
 			clear
-			;;
+		;;
 		bespin)
 			echo -en "\e]P028211c"
 			echo -en "\e]P136312e"
@@ -269,7 +269,7 @@ then
 			echo -en "\e]PE9b859d"
 			echo -en "\e]PF937121"
 			clear
-			;;
+		;;
 		brewer)
 			echo -en "\e]P00c0d0e"
 			echo -en "\e]P12e2f30"
@@ -288,7 +288,7 @@ then
 			echo -en "\e]PE756bb1"
 			echo -en "\e]PFb15928"
 			clear
-			;;
+		;;
 		bright)
 			echo -en "\e]P0000000"
 			echo -en "\e]P1303030"
@@ -307,7 +307,7 @@ then
 			echo -en "\e]PEd381c3"
 			echo -en "\e]PFbe643c"
 			clear
-			;;
+		;;
 		chalk)
 			echo -en "\e]P0151515"
 			echo -en "\e]P1202020"
@@ -326,7 +326,7 @@ then
 			echo -en "\e]PEe1a3ee"
 			echo -en "\e]PFdeaf8f"
 			clear
-			;;
+		;;
 		codeschool)
 			echo -en "\e]P0232c31"
 			echo -en "\e]P11c3657"
@@ -345,7 +345,7 @@ then
 			echo -en "\e]PEc59820"
 			echo -en "\e]PFc98344"
 			clear
-			;;
+		;;
 		darktooth)
 			echo -en "\e]P01D2021"
 			echo -en "\e]P132302F"
@@ -364,7 +364,7 @@ then
 			echo -en "\e]PE8F4673"
 			echo -en "\e]PFA87322"
 			clear
-			;;
+		;;
 		default-dark)
 			echo -en "\e]P0181818"
 			echo -en "\e]P1282828"
@@ -383,7 +383,7 @@ then
 			echo -en "\e]PEba8baf"
 			echo -en "\e]PFa16946"
 			clear
-			;;
+		;;
 		default-light)
 			echo -en "\e]P0f8f8f8"
 			echo -en "\e]P1e8e8e8"
@@ -402,7 +402,7 @@ then
 			echo -en "\e]PEba8baf"
 			echo -en "\e]PFa16946"
 			clear
-			;;
+		;;
 		eighties)
 			echo -en "\e]P02d2d2d"
 			echo -en "\e]P1393939"
@@ -421,7 +421,7 @@ then
 			echo -en "\e]PEcc99cc"
 			echo -en "\e]PFd27b53"
 			clear
-			;;
+		;;
 		embers)
 			echo -en "\e]P016130F"
 			echo -en "\e]P12C2620"
@@ -440,7 +440,7 @@ then
 			echo -en "\e]PE82576D"
 			echo -en "\e]PF825757"
 			clear
-			;;
+		;;
 		flat)
 			echo -en "\e]P02C3E50"
 			echo -en "\e]P134495E"
@@ -459,7 +459,7 @@ then
 			echo -en "\e]PE9B59B6"
 			echo -en "\e]PFbe643c"
 			clear
-			;;
+		;;
 		google-dark)
 			echo -en "\e]P01d1f21"
 			echo -en "\e]P1282a2e"
@@ -478,7 +478,7 @@ then
 			echo -en "\e]PEA36AC7"
 			echo -en "\e]PF3971ED"
 			clear
-			;;
+		;;
 		google-light)
 			echo -en "\e]P0ffffff"
 			echo -en "\e]P1e0e0e0"
@@ -497,7 +497,7 @@ then
 			echo -en "\e]PEA36AC7"
 			echo -en "\e]PF3971ED"
 			clear
-			;;
+		;;
 		grayscale-dark)
 			echo -en "\e]P0101010"
 			echo -en "\e]P1252525"
@@ -516,7 +516,7 @@ then
 			echo -en "\e]PE747474"
 			echo -en "\e]PF5e5e5e"
 			clear
-			;;
+		;;
 		grayscale-light)
 			echo -en "\e]P0f7f7f7"
 			echo -en "\e]P1e3e3e3"
@@ -535,7 +535,7 @@ then
 			echo -en "\e]PE747474"
 			echo -en "\e]PF5e5e5e"
 			clear
-			;;
+		;;
 		green-screen)
 			echo -en "\e]P0001100"
 			echo -en "\e]P1003300"
@@ -554,7 +554,7 @@ then
 			echo -en "\e]PE00bb00"
 			echo -en "\e]PF005500"
 			clear
-			;;
+		;;
 		green-screen)
 			echo -en "\e]P0001100"
 			echo -en "\e]P1003300"
@@ -573,7 +573,7 @@ then
 			echo -en "\e]PE00bb00"
 			echo -en "\e]PF005500"
 			clear
-			;;
+		;;
 		harmonic16-dark)
 			echo -en "\e]P00b1c2c"
 			echo -en "\e]P1223b54"
@@ -592,7 +592,7 @@ then
 			echo -en "\e]PEbf568b"
 			echo -en "\e]PFbf5656"
 			clear
-			;;
+		;;
 		harmonic16-dark)
 			echo -en "\e]P00b1c2c"
 			echo -en "\e]P1223b54"
@@ -611,7 +611,7 @@ then
 			echo -en "\e]PEbf568b"
 			echo -en "\e]PFbf5656"
 			clear
-			;;
+		;;
 		harmonic16-light)
 			echo -en "\e]P0f7f9fb"
 			echo -en "\e]P1e5ebf1"
@@ -630,7 +630,7 @@ then
 			echo -en "\e]PEbf568b"
 			echo -en "\e]PFbf5656"
 			clear
-			;;
+		;;
 		harmonic16-light)
 			echo -en "\e]P0f7f9fb"
 			echo -en "\e]P1e5ebf1"
@@ -649,7 +649,7 @@ then
 			echo -en "\e]PEbf568b"
 			echo -en "\e]PFbf5656"
 			clear
-			;;
+		;;
 		hopscotch)
 			echo -en "\e]P0322931"
 			echo -en "\e]P1433b42"
@@ -668,7 +668,7 @@ then
 			echo -en "\e]PEc85e7c"
 			echo -en "\e]PFb33508"
 			clear
-			;;
+		;;
 		ir-black)
 			echo -en "\e]P0000000"
 			echo -en "\e]P1242422"
@@ -687,7 +687,7 @@ then
 			echo -en "\e]PEff73fd"
 			echo -en "\e]PFb18a3d"
 			clear
-			;;
+		;;
 		ir-black)
 			echo -en "\e]P0000000"
 			echo -en "\e]P1242422"
@@ -706,26 +706,7 @@ then
 			echo -en "\e]PEff73fd"
 			echo -en "\e]PFb18a3d"
 			clear
-			;;
-		jasonwryan)
-			echo -en "\e]P0252830"
-			echo -en "\e]P19E5641"
-			echo -en "\e]P26C7E55"
-			echo -en "\e]P3CAAF2B"
-			echo -en "\e]P47FB8D8"
-			echo -en "\e]P5956D9D"
-			echo -en "\e]P64c8ea1"
-			echo -en "\e]P7808080"
-			echo -en "\e]P8454545"
-			echo -en "\e]P9CC896D"
-			echo -en "\e]PAC4DF90"
-			echo -en "\e]PBFFE080"
-			echo -en "\e]PCB8DDEA"
-			echo -en "\e]PDC18FCB"
-			echo -en "\e]PE6bc1d0"
-			echo -en "\e]PFcdcdcd"
-			clear
-			;;
+		;;
 		isotope)
 			echo -en "\e]P0000000"
 			echo -en "\e]P1404040"
@@ -744,7 +725,7 @@ then
 			echo -en "\e]PEcc00ff"
 			echo -en "\e]PF3300ff"
 			clear
-			;;
+		;;
 		london-tube)
 			echo -en "\e]P0231f20"
 			echo -en "\e]P11c3f95"
@@ -763,7 +744,7 @@ then
 			echo -en "\e]PE98005d"
 			echo -en "\e]PFb06110"
 			clear
-			;;
+		;;
 		london-tube)
 			echo -en "\e]P0231f20"
 			echo -en "\e]P11c3f95"
@@ -782,7 +763,7 @@ then
 			echo -en "\e]PE98005d"
 			echo -en "\e]PFb06110"
 			clear
-			;;
+		;;
 		macintosh)
 			echo -en "\e]P0000000"
 			echo -en "\e]P1404040"
@@ -801,7 +782,7 @@ then
 			echo -en "\e]PE4700a5"
 			echo -en "\e]PF90713a"
 			clear
-			;;
+		;;
 		marrakesh)
 			echo -en "\e]P0201602"
 			echo -en "\e]P1302e00"
@@ -820,7 +801,7 @@ then
 			echo -en "\e]PE8868b3"
 			echo -en "\e]PFb3588e"
 			clear
-			;;
+		;;
 		materia)
 			echo -en "\e]P0263238"
 			echo -en "\e]P12C393F"
@@ -839,7 +820,7 @@ then
 			echo -en "\e]PE82AAFF"
 			echo -en "\e]PFEC5F67"
 			clear
-			;;
+		;;
 		mocha)
 			echo -en "\e]P03B3228"
 			echo -en "\e]P1534636"
@@ -858,7 +839,7 @@ then
 			echo -en "\e]PEa89bb9"
 			echo -en "\e]PFbb9584"
 			clear
-			;;
+		;;
 		monokai)
 			echo -en "\e]P0272822"
 			echo -en "\e]P1383830"
@@ -877,7 +858,7 @@ then
 			echo -en "\e]PEae81ff"
 			echo -en "\e]PFcc6633"
 			clear
-			;;
+		;;
 		ocean)
 			echo -en "\e]P02b303b"
 			echo -en "\e]P1343d46"
@@ -896,7 +877,7 @@ then
 			echo -en "\e]PEb48ead"
 			echo -en "\e]PFab7967"
 			clear
-			;;
+		;;
 		oceanicnext)
 			echo -en "\e]P01B2B34"
 			echo -en "\e]P1343D46"
@@ -915,26 +896,7 @@ then
 			echo -en "\e]PEC594C5"
 			echo -en "\e]PFAB7967"
 			clear
-			;;
-		oliver)
-			echo -en "\e]P0000000"
-			echo -en "\e]P19E5641"
-			echo -en "\e]P26C7E55"
-			echo -en "\e]P3CAAF2B"
-			echo -en "\e]P47FB8D8"
-			echo -en "\e]P5956D9D"
-			echo -en "\e]P64c8ea1"
-			echo -en "\e]P7808080"
-			echo -en "\e]P8454545"
-			echo -en "\e]P9CC896D"
-			echo -en "\e]PAC4DF90"
-			echo -en "\e]PBFFE080"
-			echo -en "\e]PCB8DDEA"
-			echo -en "\e]PDC18FCB"
-			echo -en "\e]PE6bc1d0"
-			echo -en "\e]PFcdcdcd"
-			clear
-			;;
+		;;
 		paraiso)
 			echo -en "\e]P02f1e2e"
 			echo -en "\e]P141323f"
@@ -953,7 +915,7 @@ then
 			echo -en "\e]PE815ba4"
 			echo -en "\e]PFe96ba8"
 			clear
-			;;
+		;;
 		phd)
 			echo -en "\e]P0061229"
 			echo -en "\e]P12a3448"
@@ -972,26 +934,7 @@ then
 			echo -en "\e]PE9989cc"
 			echo -en "\e]PFb08060"
 			clear
-			;;
-		phraktured)
-			echo -en "\e]P0222222"
-			echo -en "\e]P1803232"
-			echo -en "\e]P25b762f"
-			echo -en "\e]P3aa9943"
-			echo -en "\e]P4324c80"
-			echo -en "\e]P5706c9a"
-			echo -en "\e]P692b19e"
-			echo -en "\e]P7ffffff"
-			echo -en "\e]P8222222"
-			echo -en "\e]P9982b2b"
-			echo -en "\e]PA89b83f"
-			echo -en "\e]PBefef60"
-			echo -en "\e]PC2b4f98"
-			echo -en "\e]PD826ab1"
-			echo -en "\e]PEa1cdcd"
-			echo -en "\e]PFdedede"
-			clear
-			;;
+		;;
 		pico)
 			echo -en "\e]P0000000"
 			echo -en "\e]P11d2b53"
@@ -1010,7 +953,7 @@ then
 			echo -en "\e]PEff77a8"
 			echo -en "\e]PFffccaa"
 			clear
-			;;
+		;;
 		pop)
 			echo -en "\e]P0000000"
 			echo -en "\e]P1202020"
@@ -1029,27 +972,8 @@ then
 			echo -en "\e]PEb31e8d"
 			echo -en "\e]PF7a2d00"
 			clear
-			;;
-		railscasts1)
-			echo -en "\e]P0232323"
-			echo -en "\e]P1D75F5F"
-			echo -en "\e]P287AF5F"
-			echo -en "\e]P3D7AF87"
-			echo -en "\e]P48787AF"
-			echo -en "\e]P5BD53A5"
-			echo -en "\e]P65FAFAF"
-			echo -en "\e]P7E5E5E5"
-			echo -en "\e]P82B2B2B"
-			echo -en "\e]P9E33636"
-			echo -en "\e]PA98E34D"
-			echo -en "\e]PBFFD75F"
-			echo -en "\e]PC7373C9"
-			echo -en "\e]PDD633B2"
-			echo -en "\e]PE44C9C9"
-			echo -en "\e]PFFFFFFF"
-			clear
-			;;
-		railscasts2)
+		;;
+		railscasts)
 			echo -en "\e]P02b2b2b"
 			echo -en "\e]P1272935"
 			echo -en "\e]P23a4055"
@@ -1067,7 +991,7 @@ then
 			echo -en "\e]PEb6b3eb"
 			echo -en "\e]PFbc9458"
 			clear
-			;;
+		;;
 		seti-ui)
 			echo -en "\e]P0151718"
 			echo -en "\e]P18ec43d"
@@ -1086,7 +1010,7 @@ then
 			echo -en "\e]PEa074c4"
 			echo -en "\e]PF8a553f"
 			clear
-			;;
+		;;
 		seti-ui)
 			echo -en "\e]P0151718"
 			echo -en "\e]P18ec43d"
@@ -1105,7 +1029,7 @@ then
 			echo -en "\e]PEa074c4"
 			echo -en "\e]PF8a553f"
 			clear
-			;;
+		;;
 		shapeshifter)
 			echo -en "\e]P0f9f9f9"
 			echo -en "\e]P1e0e0e0"
@@ -1124,7 +1048,7 @@ then
 			echo -en "\e]PEf996e2"
 			echo -en "\e]PF69542d"
 			clear
-			;;
+		;;
 		solar-flare)
 			echo -en "\e]P018262F"
 			echo -en "\e]P1222E38"
@@ -1143,7 +1067,7 @@ then
 			echo -en "\e]PEA363D5"
 			echo -en "\e]PFD73C9A"
 			clear
-			;;
+		;;
 		solar-flare)
 			echo -en "\e]P018262F"
 			echo -en "\e]P1222E38"
@@ -1162,27 +1086,8 @@ then
 			echo -en "\e]PEA363D5"
 			echo -en "\e]PFD73C9A"
 			clear
-			;;
-		solarized-dark1)
-			echo -en "\e]P0073642"
-			echo -en "\e]P1dc322f"
-			echo -en "\e]P2859900"
-			echo -en "\e]P3b58900"
-			echo -en "\e]P4268bd2"
-			echo -en "\e]P5d33682"
-			echo -en "\e]P62aa198"
-			echo -en "\e]P7eee8d5"
-			echo -en "\e]P8002b36"
-			echo -en "\e]P9cb4b16"
-			echo -en "\e]PA586e75"
-			echo -en "\e]PB657b83"
-			echo -en "\e]PC839496"
-			echo -en "\e]PD6c71c4"
-			echo -en "\e]PE93a1a1"
-			echo -en "\e]PFfdf6e3"
-			clear
-			;;
-		solarized-dark2)
+		;;
+		solarized-dark)
 			echo -en "\e]P0002b36"
 			echo -en "\e]P1073642"
 			echo -en "\e]P2586e75"
@@ -1200,27 +1105,8 @@ then
 			echo -en "\e]PE6c71c4"
 			echo -en "\e]PFd33682"
 			clear
-			;;
-		solarized-light1)
-			echo -en "\e]P0eee8d5"
-			echo -en "\e]P1dc322f"
-			echo -en "\e]P2859900"
-			echo -en "\e]P3b58900"
-			echo -en "\e]P4268bd2"
-			echo -en "\e]P5d33682"
-			echo -en "\e]P62aa198"
-			echo -en "\e]P7073642"
-			echo -en "\e]P8fdf6e3"
-			echo -en "\e]P9cb4b16"
-			echo -en "\e]PA93a1a1"
-			echo -en "\e]PB839496"
-			echo -en "\e]PC657b83"
-			echo -en "\e]PD6c71c4"
-			echo -en "\e]PE586e75"
-			echo -en "\e]PF002b36"
-			clear
-			;;
-		solarized-light2)
+		;;
+		solarized-light)
 			echo -en "\e]P0fdf6e3"
 			echo -en "\e]P1eee8d5"
 			echo -en "\e]P293a1a1"
@@ -1238,7 +1124,7 @@ then
 			echo -en "\e]PE6c71c4"
 			echo -en "\e]PFd33682"
 			clear
-			;;
+		;;
 		spacemacs)
 			echo -en "\e]P01f2022"
 			echo -en "\e]P1282828"
@@ -1257,7 +1143,7 @@ then
 			echo -en "\e]PEa31db1"
 			echo -en "\e]PFb03060"
 			clear
-			;;
+		;;
 		summerfruit)
 			echo -en "\e]P0151515"
 			echo -en "\e]P1202020"
@@ -1276,7 +1162,7 @@ then
 			echo -en "\e]PEAD00A1"
 			echo -en "\e]PFcc6633"
 			clear
-			;;
+		;;
 		tomorrow)
 			echo -en "\e]P0ffffff"
 			echo -en "\e]P1e0e0e0"
@@ -1295,7 +1181,7 @@ then
 			echo -en "\e]PE8959a8"
 			echo -en "\e]PFa3685a"
 			clear
-			;;
+		;;
 		tomorrow-night)
 			echo -en "\e]P01d1f21"
 			echo -en "\e]P1282a2e"
@@ -1314,7 +1200,7 @@ then
 			echo -en "\e]PEb294bb"
 			echo -en "\e]PFa3685a"
 			clear
-			;;
+		;;
 		twilight)
 			echo -en "\e]P01e1e1e"
 			echo -en "\e]P1323537"
@@ -1333,12 +1219,12 @@ then
 			echo -en "\e]PE9b859d"
 			echo -en "\e]PF9b703f"
 			clear
-			;;
+		;;
 		*)
 			cat <<-EOF
 			USAGE:
-			${TAB}tty-colors.sh [ 3024 | apathy | ashes | atelier-cave | atelier-dune | atelier-estuary | atelier-forest | atelier-heath | atelier-lakeside | atelier-plateau | atelier-savanna | atelier-seaside | atelier-sulphurpool | bespin | brewer | bright | chalk | codeschool | darktooth | default-dark | default-light | eighties | embers | flat | google-dark | google-light | grayscale-dark | grayscale-light | green-screen | green-screen | harmonic16-dark | harmonic16-dark | harmonic16-light | harmonic16-light | hopscotch | jasonwryan | ir-black | ir-black | isotope | london-tube | london-tube | macintosh | marrakesh | materia | mocha | monokai | ocean | oceanicnext | oliver | paraiso | phd | phraktured | pico | pop | railscasts1 | railscasts2 | seti-ui | seti-ui | shapeshifter | solar-flare | solar-flare | solarized-dark1 | solarized-dark2 | solarized-light1 | solarized-light2 | spacemacs | summerfruit | tomorrow | tomorrow-night | twilight ]
+			${TAB}tty-colors.sh [ 3024 | apathy | ashes | atelier-cave | atelier-dune | atelier-estuary | atelier-forest | atelier-heath | atelier-lakeside | atelier-plateau | atelier-savanna | atelier-seaside | atelier-sulphurpool | bespin | brewer | bright | chalk | codeschool | darktooth | default-dark | default-light | eighties | embers | flat | google-dark | google-light | grayscale-dark | grayscale-light | green-screen | green-screen | harmonic16-dark | harmonic16-dark | harmonic16-light | harmonic16-light | hopscotch | ir-black | ir-black | isotope | london-tube | london-tube | macintosh | marrakesh | materia | mocha | monokai | ocean | oceanicnext | paraiso | phd | pico | pop | railscasts | seti-ui | seti-ui | shapeshifter | solar-flare | solar-flare | solarized-dark | solarized-light | spacemacs | summerfruit | tomorrow | tomorrow-night | twilight ]
 			EOF
-			;;
+		;;
 	esac
 fi
