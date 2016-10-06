@@ -1336,9 +1336,9 @@ then
          ;;
       *)
          cat <<-EOF
-         USAGE:
-         ${TAB}tty-colors.sh [ 3024 | apathy | ashes | atelier-cave | atelier-dune | atelier-estuary | atelier-forest | atelier-heath | atelier-lakeside | atelier-plateau | atelier-savanna | atelier-seaside | atelier-sulphurpool | bespin | brewer | bright | chalk | codeschool | darktooth | default-dark | default-light | eighties | embers | flat | google-dark | google-light | grayscale-dark | grayscale-light | green-screen | green-screen | harmonic16-dark | harmonic16-dark | harmonic16-light | harmonic16-light | hopscotch | jasonwryan | ir-black | ir-black | isotope | london-tube | london-tube | macintosh | marrakesh | materia | mocha | monokai | ocean | oceanicnext | oliver | paraiso | phd | phraktured | pico | pop | railscasts1 | railscasts2 | seti-ui | seti-ui | shapeshifter | solar-flare | solar-flare | solarized-dark1 | solarized-dark2 | solarized-light1 | solarized-light2 | spacemacs | summerfruit | tomorrow | tomorrow-night | twilight ]
-         EOF
+USAGE:
+ ${TAB}tty-colors.sh [ 3024 | apathy | ashes | atelier-cave | atelier-dune | atelier-estuary | atelier-forest | atelier-heath | atelier-lakeside | atelier-plateau | atelier-savanna | atelier-seaside | atelier-sulphurpool | bespin | brewer | bright | chalk | codeschool | darktooth | default-dark | default-light | eighties | embers | flat | google-dark | google-light | grayscale-dark | grayscale-light | green-screen | green-screen | harmonic16-dark | harmonic16-dark | harmonic16-light | harmonic16-light | hopscotch | jasonwryan | ir-black | ir-black | isotope | london-tube | london-tube | macintosh | marrakesh | materia | mocha | monokai | ocean | oceanicnext | oliver | paraiso | phd | phraktured | pico | pop | railscasts1 | railscasts2 | seti-ui | seti-ui | shapeshifter | solar-flare | solar-flare | solarized-dark1 | solarized-dark2 | solarized-light1 | solarized-light2 | spacemacs | summerfruit | tomorrow | tomorrow-night | twilight ]
+EOF
          ;;
    esac
 fi
