@@ -926,7 +926,7 @@ then
          echo -en "\e]P64c8ea1"
          echo -en "\e]P7808080"
          echo -en "\e]P8454545"
-         echo -en "\e]P9CC896D"
+         echo -en "\e]P9cf6171"
          echo -en "\e]PAC4DF90"
          echo -en "\e]PBFFE080"
          echo -en "\e]PCB8DDEA"
